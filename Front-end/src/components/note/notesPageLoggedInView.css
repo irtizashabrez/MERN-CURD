@@ -1,0 +1,9 @@
+.notesPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.notesGrid {
+    width: 100%;
+}
